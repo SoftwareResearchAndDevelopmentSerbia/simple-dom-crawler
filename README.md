@@ -1,7 +1,7 @@
 # Simple Dom Crawler
 
 
-This simple script was actually a job application assignment where the task was to crawl specific web page structure and prepare that data for further usage.
+The task in this simple script is to crawl specific web page structure and prepare that data for further usage.
 
 In order to keep things simple pages to be crawled are saved locally inside **test_page** directory.
 
